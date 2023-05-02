@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+GradeMasterMohammadShakia.egg-info/PKG-INFO
+GradeMasterMohammadShakia.egg-info/SOURCES.txt
+GradeMasterMohammadShakia.egg-info/dependency_links.txt
+GradeMasterMohammadShakia.egg-info/requires.txt
+GradeMasterMohammadShakia.egg-info/top_level.txt
+grademaster/__init__.py
+grademaster/grademaster.py
+grademaster/lib_jcode.py
+tests/__init__.py

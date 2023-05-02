@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: GradeMasterMohammadShakia
+Version: 0.1.17
+Summary: GradeMaster for computing the grading for students using their grades in the semester
+Home-page: http://hachmannlab.cbe.buffalo.edu
+Author: Johannes Hachmann, Mohammad Shakiba
+Author-email: hachmann@buffalo.edu
+License: BSD
+License-File: LICENSE
+
+GradeMaster for computing the grading for students using their grades in the semester
