@@ -6,11 +6,11 @@ Dr. Mojtaba Haghighatlari. Here, I have modified and optimized the code. The mod
 The summary of the main changes are as follows:
 
 
-* Optimization of the statistical approaches with numpy,
+* Optimization of the statistical approaches with `numpy`,
 
-* Replacement of the optparse with argparse,
+* Replacement of the `optparse` with `argparse`,
 
-* Pandas optimization for reading the homeworks and exam data,
+* `pandas` optimization for reading the homeworks and exam data,
 
 * Making the code work with Python3,
 
