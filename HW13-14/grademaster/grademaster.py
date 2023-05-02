@@ -6,6 +6,12 @@ REVISION_DATE = "2019-11-25"
 AUTHOR = """
 Johannes Hachmann (hachmann@buffalo.edu) with contributions by:
    Mojtaba Haghighatlari (jobfile, Pandas dataframe) 
+   Mohammad Shakiba (Optimization of the statistical approaches with numpy,
+                     Replacement of the optparse with argparse,
+                     Pandas optimization for reading the homeworks and exam data,
+                     Making the code work with Python3,
+                     Some other minor optimiaztions for printings with some ideas for 
+                     generalization of some parts of the code)
 """
 DESCRIPTION = "This little program is designed to help manage course grades, make grade projections, etc."
 

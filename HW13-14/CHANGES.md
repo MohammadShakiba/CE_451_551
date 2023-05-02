@@ -3,6 +3,19 @@
 * `argparse` was added for parsing the arguments passed by the user
 
 ```
+parser = argparse.ArgumentParser(description='Reads external variables from the terminal provided by user...')
+# Added --data_file in the argparse
+parser.add_argument('--data_file', default='test.csv', type=str, help='specifies the name of the raw data file in CSV format...')
+# Added --job_file in the argparse
+parser.add_argument('--job_file', default='job_file.test', type=str, help='specifies the name of the job file that specifies sets...')
+# Added --requestmeeting in the argparse
+parser.add_argument('--requestmeeting', default=False, type=bool, help='specifies the a meeting is requested in the student email')
+# Added --print_level in the argparse
+parser.add_argument('--print_level', default=2, type=int, help='specifies the print level for on screen and the logfile [default: %default]')
+# Added --logfile in the argparse
+parser.add_argument('--logfile', default='grademaster.log', type=str, help='specifies the name of the log-file [default: %default]')
+# Added --requestmeeting in the argparse
+parser.add_argument('--error_file', default='grademaster.err', type=str, help='specifies the name of the error-file [default: %default]')
 
 ```
 
