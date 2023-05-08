@@ -1,0 +1,15 @@
+! RHF b3lyp def2-SVP LARGEPRINT PRINTBASIS PRINTGAP TightSCF ALLPOP Opt AnFreq NumFreq bohrs 
+
+%pal nprocs 16
+end
+
+#%elprop Dipole true
+#        Quadrupole true
+#        Polar 1
+#end
+
+%geom
+  MaxIter 100
+end
+
+* xyzfile 0 1 mta.xyz

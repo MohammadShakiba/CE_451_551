@@ -1,0 +1,15 @@
+! RHF b3lyp def2-SVP LARGEPRINT PRINTBASIS PRINTGAP TightSCF ALLPOP AnFreq NumFreq bohrs
+
+%pal nprocs 16
+end
+
+%tddft 
+  NRoots 25
+end
+
+%plots Format Cube
+  MO("HOMO-8.cube",8,0);
+  MO("LUMO-9.cube",9,0);
+end
+
+* xyzfile 0 1 optimized_mta.xyz

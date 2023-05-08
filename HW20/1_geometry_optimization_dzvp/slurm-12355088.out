@@ -1,0 +1,21 @@
+SLURM_JOBID=12355088
+SLURM_JOB_NODELIST=cpn-u22-26
+SLURM_NNODES=1
+SLURMTMPDIR=/scratch/12355088
+working directory=/projects/academic/alexeyak/mohammad/spring2023/ce451/github/HW20/1_geometry_optimization_dzvp
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07953] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07940] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07942] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07950] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07952] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07944] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07946] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07949] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07943] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07951] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07954] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07941] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07939] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07938] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07948] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
+[cpn-u22-26.compute.cbls.ccr.buffalo.edu:07945] mca_base_component_repository_open: unable to open mca_io_romio314: libgpfs.so: cannot open shared object file: No such file or directory (ignored)
