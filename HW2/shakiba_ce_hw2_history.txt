@@ -1,0 +1,93 @@
+  965  echo "Hello World"
+  966  pwd
+  967  cd ..
+  968  ls -a
+  969  touch myfile
+  970  rm myfile 
+  971  cd mohammad/
+  972  file submit.slm 
+  973  less submit.slm 
+  974  history
+  975  mv cat dog
+  976  mkdir 
+  977  rm myfile
+  978  find . -name '*jpg'
+  979  help ls
+  980  help echo
+  981  man ls
+  982  whatis less
+  983  alias homework2='echo "Hello World!"'
+  984  homework2 
+  985  ls < peanuts.txt > banana.txt
+  986  ls -l /var/log > myoutput.txt
+  987  echo Hello World > rm
+  988  > somefile.txt 
+  989  echo < peanuts.txt > banana.txt
+  990  ls < peanuts.txt > banana.txt
+  991  pwd < peanuts.txt > banana.txt
+  992  ls /fake/directory >> /dev/null 2>&1
+  993  ls | tee peanuts.txt banan.txt
+  994  echo $HOME
+  995  env
+  996  cut -c 5-10 sample.txt
+  997  paste -s submit.slm submit.slm 
+  998  head -c 15 /var/log/syslog
+  999  man tail
+ 1000  tail submit.slm 
+ 1001  expand submit.slm 
+ 1002  join submit.slm slurm-8687893.out 
+ 1003  ls
+ 1004  join -1 2 -2 1 submit.slm slurm-8687893.out 
+ 1005  sort -r slurm-8687893.out 
+ 1006  sort -r submit.slm 
+ 1007  tr a-z submit.slm 
+ 1008  tr a-z
+ 1009  tr a-z A-Z
+ 1010  tr -d ello
+ 1011  tr -d ello hello
+ 1012  uniq
+ 1013  uniq -c submit.slm 
+ 1014  cat submit.slm | wc -l
+ 1015  cat submit.slm | wc
+ 1016  cat submit.slm | grep 'SBATCH'
+ 1017  ls -l
+ 1018  chmod u+x submit.slm 
+ 1019  touch myfile
+ 1020  umask 021 myfile 
+ 1021  ls -l
+ 1022  passwd
+ 1023  ls -l /usr/bin/passwd
+ 1024  watch -n 1 "ps aux | grep passwd"
+ 1025  ps
+ 1026  ptx
+ 1027  ps aux | grep cat
+ 1028  ps aux 
+ 1029  ps aux | grep cat
+ 1030  ps l
+ 1031  kill -9 255862
+ 1032  top -u mshakiba
+ 1033  ps aux
+ 1034  ls /proc/
+ 1035  sleep 2
+ 1036  jobs
+ 1037  ls -l /
+ 1038  df -t
+ 1039  df -T
+ 1040  parted -l
+ 1041  cat /etc/fstab
+ 1042  swap
+ 1043  du -h submit.slm 
+ 1044  stat ~
+ 1045  ls -li
+ 1046  ls -lhi 
+ 1047  top -p 1
+ 1048  top -p 2
+ 1049  top -p 120
+ 1050  lsof
+ 1051  ps m
+ 1052  uptime
+ 1053  iostat
+ 1054  vmstat
+ 1055  history 
+ 1056  history | grep -A 100 '965'
+ 1057  history | grep -A 100 '965' > shakiba_ce_hw2_history.txt
